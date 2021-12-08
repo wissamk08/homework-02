@@ -1,0 +1,164 @@
+
+
+
+html {
+    scroll-behavior: smooth;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightskyblue;
+    
+    
+  }
+  
+  ul {
+    list-style-type: none;
+    font-size: xx-large;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    color: black;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+
+
+nav {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1.5rem 3.5rem;
+    background-color: lightskyblue;
+    color: black;
+    border-bottom: 4px solid black;
+    
+  }
+
+  nav h1 {
+    color:black;
+    font-family: cursive; 
+    font-size: 100px;
+  }
+  
+  nav a {
+    color: black;
+    transition: 0.3s;
+  }
+  nav a:hover {
+    color: black;
+    border-bottom: 4px solid black;
+  }
+  
+  nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.9rem;
+  }
+  
+  nav ul li {
+    font-weight: bold;
+  }
+
+  .pic1
+{
+  width: 100%;
+  z-index: 0;
+  height: 250px;
+  padding: 0 0 50px;
+  
+}
+
+.ss{
+  border-right: 6px solid black;
+  height: 3300px;
+  min-width: 15%;
+} 
+
+.ss ul{
+  display: flex;
+    flex-wrap: wrap;
+    gap: 1.9rem;
+} 
+  aside {
+    float: left;
+    display: block;
+    margin: 0 1.5%;
+    width: 10%;
+    padding: 50px 0 ;
+  }
+
+  .side1{
+    padding: 0 0 600px;
+font-size: 60px;
+
+  }
+  .side{
+font-size: 60px;
+}
+
+.p1 {padding-top: 60px;
+  padding-bottom: 450px;
+  font-size:larger ;
+  font: bold;
+  line-height: 30pt;
+  
+}
+
+.pic2 {
+  width: 400px;
+    height: 420px;
+    border: 15px black solid;
+
+}
+.pic {
+ 
+   }
+   .bigpic{
+     width: 500px;
+    
+   }
+
+   #skills {
+     padding-bottom: 1050px;
+     padding-top: 200px;
+   }
+
+   #contact{
+    padding-bottom: 500px;
+   }
+
+   #project{
+    padding-bottom: 850px;
+   }
+
+   #pn{
+     padding-top: 300px;
+     font-size: 50px;
+     padding-bottom: 600px;
+   }
+
+   footer{
+     padding-top: 250px;
+     
+   }
+
+   .foot{
+     background-color: gray;
+   }
+   
