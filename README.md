@@ -16,7 +16,7 @@
 
 ## here is my screenshot
 
- ![my screenshot](https://github.com/wissamk08/homework-02/blob/main/image/FireShot%20Capture%20005%20-%20Document%20-%20.png?raw=true) 
+ ![my screenshot](https://github.com/wissamk08/homework-02/blob/main/image/FireShot%20Capture%20006%20-%20Portfolio%20-%20.png?raw=true) 
 
 ---
 
