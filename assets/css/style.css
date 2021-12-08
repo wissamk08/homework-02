@@ -112,7 +112,8 @@ font-size: 60px;
 font-size: 60px;
 }
 
-.p1 {padding-top: 60px;
+.p1 {
+  padding-top: 60px;
   padding-bottom: 450px;
   font-size:larger ;
   font: bold;
@@ -124,6 +125,7 @@ font-size: 60px;
   width: 400px;
     height: 420px;
     border: 15px black solid;
+    
 
 }
 .pic {
